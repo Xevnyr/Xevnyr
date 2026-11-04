@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/xevnyr-banner.png"
+  <img src="./assets/xevnyr_banner_ia.png"
        alt="Xevnyr - Turning ideas into code"
        width="100%">
 </p>
