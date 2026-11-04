@@ -1,34 +1,78 @@
-# Hi, I'm Xevnyr 👋
+# XEVNYR.
 
-### Software Development Student
+### Turning ideas into code.
 
-I'm a Software Development student at BYU-Pathway Worldwide.
+I'm Emmanuel, a Software Development student from Mexico.
 
-I have completed a Web and Computer Programming Certificate, and I'm currently strengthening my programming fundamentals and building practical projects.
+I'm currently building my programming foundations, improving my problem-solving skills, and learning how to create useful software through practical projects.
 
-### Currently learning
+I believe good development comes from curiosity, consistency, and understanding how things work.
 
-- Python
-- JavaScript
-- HTML & CSS
-- Software Development Fundamentals
-- Git and GitHub
+---
 
-### What I'm working on
+## `01` — ABOUT ME
 
-- Improving my programming skills through practical exercises.
-- Building small projects to apply what I learn.
-- Developing my problem-solving and debugging skills.
-- Learning to write clean and understandable code.
+- 🎓 Software Development student at BYU-Pathway Worldwide.
+- 📚 Completed a Web and Computer Programming Certificate.
+- 💻 Currently strengthening my programming fundamentals.
+- 🧩 Interested in software development, web technologies, and problem-solving.
+- 🌱 Focused on becoming an independent developer.
 
-### Goals
+---
 
-- Become an independent software developer.
-- Build real-world projects.
-- Contribute to collaborative software projects.
-- Continue learning and improving every day.
+## `02` — CURRENT FOCUS
 
-### GitHub
+| Area | Learning |
+|---|---|
+| Programming | Python, C# |
+| Web Development | HTML, CSS, JavaScript |
+| Software Development | Programming fundamentals, problem-solving |
+| Tools | Git, GitHub, Cursor |
 
-I use this profile to document my learning journey, university assignments, and personal projects.
+*This list represents my current learning areas, not professional mastery.*
 
+---
+
+## `03` — SELECTED WORK
+
+### Academic Projects
+
+**[WDD130](https://github.com/Xevnyr/wdd130)**
+
+Web development coursework focused on HTML and CSS.
+
+**[WDD131](https://github.com/Xevnyr/wdd131)**
+
+Web development exercises involving HTML, CSS, and JavaScript.
+
+**[WDD231](https://github.com/Xevnyr/wdd231)**
+
+Web development coursework and practical exercises.
+
+**[CSE210 Projects](https://github.com/Xevnyr/cse210-projects)**
+
+Programming exercises and projects using C#.
+
+---
+
+## `04` — MY APPROACH
+
+```text
+Learn → Practice → Build → Understand → Improve
+```
+
+I don't want to simply write code that works.
+
+I want to understand why it works, learn how to solve problems independently, and become better with every project.
+
+---
+
+## `05` — CURRENT GOAL
+
+Build practical software projects, strengthen my technical skills, and prepare for opportunities as a software developer.
+
+---
+
+<sub>Always learning. Always building. Always improving.</sub>
+
+**XEVNYR.**
