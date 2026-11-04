@@ -1,4 +1,4 @@
-# Hi, I'm Raagnaa 👋
+# Hi, I'm Xevnyr 👋
 
 ### Software Development Student
 
